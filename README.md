@@ -59,9 +59,9 @@ cd <Folder_Name>
 **STEP 3:** Configure the project:
 
 ```text
-Name: TheSkylineMessenger
+Name: TheSecretMessenger
 
-Package name: com.example.theskylinemessenger
+Package name: com.example.thesecretmessenger
 
 Minimum SDK: API 24 (Android 7.0) or higher.
 
